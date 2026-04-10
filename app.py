@@ -1,1 +1,1 @@
-print "This is AWS with Python"
+print("This is Aws with Python")
